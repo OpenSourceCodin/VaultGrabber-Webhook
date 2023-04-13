@@ -1,4 +1,5 @@
 Features
+
 Discord token info
 
 Nitro
@@ -30,11 +31,7 @@ WiFi
 Screenshot
 Anti-debug
 
-Check if being run in a virustotal sandbox
-Startup persistence
 
-Place stub in appdata
-Add to startup registry
 
 
 Realtime Monetering:
