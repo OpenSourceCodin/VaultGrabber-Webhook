@@ -46,7 +46,8 @@
     -   Add to startup registry
     
 ![Screenshot 2023-04-14 235909sapd](https://user-images.githubusercontent.com/130675245/232162012-fe109c58-6aaf-4aa8-a172-985b7a6e8f5a.png)
-![Screenshot 2023-04-14 235909](https://user-images.githubusercontent.com/130675245/232162014-0e19a0a3-71af-4647-b5f5-80c2512a5947.png)
+![Screenshot 2023-04-14 235814](https://user-images.githubusercontent.com/130675245/232163502-f45986f6-a394-4b63-b1bc-10dbc1cd8d67.png)
+
 
 
 Disclaimer
