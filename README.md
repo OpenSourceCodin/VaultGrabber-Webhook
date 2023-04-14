@@ -44,7 +44,8 @@
 -   Startup persistence
     -   Place stub in appdata
     -   Add to startup registry
-
+    
+![Screenshot 2023-04-14 23435021233232AC](https://user-images.githubusercontent.com/130675245/232161610-f5b51b5d-16db-4499-814e-98ba50503580.png)
 
 Disclaimer
 This project is for educational and research purposes only. The developer is not responsible for any illegal actions that may be carried out using this software. Use it at your own risk.
