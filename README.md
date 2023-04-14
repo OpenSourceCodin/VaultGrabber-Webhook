@@ -45,7 +45,9 @@
     -   Place stub in appdata
     -   Add to startup registry
     
-![Screenshot 2023-04-14 23435021233232AC](https://user-images.githubusercontent.com/130675245/232161610-f5b51b5d-16db-4499-814e-98ba50503580.png)
+![Screenshot 2023-04-14 235909sapd](https://user-images.githubusercontent.com/130675245/232162012-fe109c58-6aaf-4aa8-a172-985b7a6e8f5a.png)
+![Screenshot 2023-04-14 235909](https://user-images.githubusercontent.com/130675245/232162014-0e19a0a3-71af-4647-b5f5-80c2512a5947.png)
+
 
 Disclaimer
 This project is for educational and research purposes only. The developer is not responsible for any illegal actions that may be carried out using this software. Use it at your own risk.
