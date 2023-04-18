@@ -51,7 +51,9 @@ Features
 
 
 
-
+Discord : https://discord.gg/RcVgtng9
+For any issues dm 7n0w#6185 or 
+CoolMan#1394
 
 Disclaimer
 This project is for educational and research purposes only. The developer is not responsible for any illegal actions that may be carried out using this software. Use it at your own risk.
